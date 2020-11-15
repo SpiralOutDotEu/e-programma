@@ -5,7 +5,7 @@
 
  Παράλληλα μπορεί να γίνει μια καλή `άσκηση` για τους μαθήτες της πληροφορικής και να φτιάξουν την πρώτη τους σελίδα.
 
- [Live prewiew](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SpiralOutDotEu/e-programma/main/index.html)
+ [Live prewiew](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SpiralOutDotEu/e-programma/main/index_sample.html)
 
  [PDF version](https://github.com/SpiralOutDotEu/e-programma/blob/main/e-%CE%A0%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1.pdf?raw=true)
 
