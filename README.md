@@ -13,6 +13,7 @@
 ![webex-sample](https://github.com/SpiralOutDotEu/e-programma/blob/main/webex-sample.jpg?raw=true)
 
 To `e-programma` είναι συμβατό με κινητά ή ταμπλετ:
+
 ![mobile](https://github.com/SpiralOutDotEu/e-programma/blob/main/e-programma-mobile.png?raw=true)
 
 ## Οδηγίες χρήσης
